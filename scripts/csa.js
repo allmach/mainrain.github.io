@@ -12,7 +12,7 @@ ctx.fillText("", 0, 60);
 ctx.fillStyle = "#0F0";
 ctx.font = `60px arial`;
 ctx.fillText("", 0, 60);
-const letters = ["T","E","C","N","O","L","O","G","Y","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1"];
+const letters = ["T","E","C","H","N","O","L","O","G","Y","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1"];
 const fontSize = 18;
 const columns = c.width / fontSize;
 const drops = new Array(Math.floor(columns)).fill(1);
